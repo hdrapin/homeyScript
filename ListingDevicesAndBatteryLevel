@@ -1,6 +1,8 @@
-// Listing all devices with Battery and the Battery Level
-// Verison: 1.0
-// Requierements: Homey Pro
+/* 
+Listing all devices with Battery and the Battery Level
+Verison: 1.0
+Requierements: Homey Pro
+*/
 
 let devices = await Homey.devices.getDevices();
 
