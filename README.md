@@ -1,2 +1,4 @@
 # homeyScript
-Utilizing JavaScript, I've developed some automation script se in Homey Pro
+Utilizing JavaScript, I've developed some automation scripts for Homey Pro
+
+- Listing All devices, Calss and capabilities : 
