@@ -1,5 +1,6 @@
-// List all Devices, Class and Capabilities
+// Listing all devices, their respective classes, and capabilities.
 // version: 1.0
+// requierements: Homey Pro
 
 let devices = await Homey.devices.getDevices();
 
