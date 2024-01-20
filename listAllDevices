@@ -1,0 +1,17 @@
+// List all Devices, Class and Capabilities
+// version: 1.0
+
+let devices = await Homey.devices.getDevices();
+
+_.forEach(devices, (device) => {
+    console.log(`Device Name: ${device.name}`);
+    console.log(`Class: ${device.class}`);
+    
+    if (device.capabilitiesObj) {
+        console.log('Capabilities:');
+        _.forEach(device.capabilitiesObj, (value, key) => {
+            console.log(`  - ${key}`);
+        });
+    }
+    console.log('-----------------------------------');
+});
