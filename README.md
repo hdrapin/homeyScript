@@ -43,5 +43,9 @@ This HomeyScript retrieves the current temperatures measured by devices in your 
 	•	Thermostat Insights: Displays current and target temperatures for thermostats.
 	•	Temperature Ranges: Shows the minimum and maximum temperatures for each zone.
 
+### Notes
+	•	Devices without a `measure_temperature` capability are ignored.
+	•	If no temperatures are detected, the script will return: `No temperatures found in the house`.
+	•	Zone names default to "Unknown Zone" if they cannot be retrieved from Homey.
 
 
