@@ -1,6 +1,7 @@
 // Listing all devices, their respective classes, and capabilities.
 // version: 1.0
 // requierements: Homey Pro
+// HD Rapin @ 2024
 
 let devices = await Homey.devices.getDevices();
 
