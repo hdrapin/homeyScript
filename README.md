@@ -33,15 +33,15 @@ This HomeyScript retrieves and displays all connected devices along with their r
 	•	The script outputs all results directly to the console for easy viewing.
 
 
- # List Temperatures by Zone
+ ## List Temperatures by Zone
 
 This HomeyScript retrieves the current temperatures measured by devices in your home, grouped by zone, and includes thermostat information where applicable. It provides an overview of the temperature distribution in each room and highlights any devices acting as thermostats.
 
 ### Features
-•	Temperature Monitoring: Lists all devices measuring temperature.
-•	Zone Classification: Groups temperatures by zones (rooms).
-•	Thermostat Insights: Displays current and target temperatures for thermostats.
-•	Temperature Ranges: Shows the minimum and maximum temperatures for each zone.
+	•	Temperature Monitoring: Lists all devices measuring temperature.
+	•	Zone Classification: Groups temperatures by zones (rooms).
+	•	Thermostat Insights: Displays current and target temperatures for thermostats.
+	•	Temperature Ranges: Shows the minimum and maximum temperatures for each zone.
 
 
 
