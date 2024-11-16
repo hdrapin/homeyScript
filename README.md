@@ -1,6 +1,11 @@
 # homeyScript
 Utilizing JavaScript, I've developed some automation scripts for Homey Pro. 
 
+Requirements
+
+	•	Homey Pro: The script is designed specifically for Homey Pro.
+ 	•	HomeyScript must be installed on teh Homey Pro
+
 
 ## List Devices by Battery Level
 
