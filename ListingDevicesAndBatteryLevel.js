@@ -2,6 +2,7 @@
 Listing all devices with Battery and the Battery Level (sorted by battery level)
 Version: 1.1
 Requirements: Homey Pro
+HD Rapin @ 2024
 */
 
 let devices = await Homey.devices.getDevices();
