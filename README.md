@@ -1,5 +1,6 @@
 # homeyScript
 Utilizing JavaScript, I've developed some automation scripts for Homey Pro. 
+Link to HomeyScript : https://github.com/athombv/com.athom.homeyscript
 
 Requirements
 
